@@ -1,0 +1,17 @@
+WIDTH, HEIGHT = 1000, 800
+
+FPS = 60
+PLAYER_WIDTH = 80
+PLAYER_HEIGHT = 40
+PLAYER_VEL = 10
+STAR_WIDTH = 10
+STAR_HEIGHT = 20
+BULLET_WIDTH = 15
+BULLET_HEIGHT = 5
+BULLET_VEL = 10
+STAR_VEL = 3
+
+
+COLORS = ["red", "green", "yellow", "orange", "blue", "cyan"]
+
+HIT_DELAY = 0.2
